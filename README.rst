@@ -1,5 +1,5 @@
 pyca/cryptography
-===========================.,,,,,,
+=========================
 
 .. image:: https://img.shields.io/pypi/v/cryptography.svg
     :target: https://pypi.org/project/cryptography/
